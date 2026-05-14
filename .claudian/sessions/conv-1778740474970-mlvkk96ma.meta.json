@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778740474970-mlvkk96ma",
+  "providerId": "claude",
+  "title": "Compile Godot Node notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778740474970,
+  "updatedAt": 1778740501681,
+  "lastResponseAt": 1778740501681,
+  "sessionId": "ac27df6c-eeab-449f-ab73-912490cf91a9",
+  "providerState": {
+    "providerSessionId": "ac27df6c-eeab-449f-ab73-912490cf91a9"
+  },
+  "currentNote": "GODOT/入门节点说明2D.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 105,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25344,
+    "contextWindow": 200000,
+    "contextTokens": 25449,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

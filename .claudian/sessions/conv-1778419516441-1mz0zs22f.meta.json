@@ -1,0 +1,27 @@
+{
+  "id": "conv-1778419516441-1mz0zs22f",
+  "providerId": "claude",
+  "title": "这篇笔记说了什么，20字总结",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778419516442,
+  "updatedAt": 1778739726463,
+  "lastResponseAt": 1778739267192,
+  "sessionId": "4c80e84e-ec08-49f9-b3d3-cb8b2e39ad24",
+  "providerState": {
+    "providerSessionId": "4c80e84e-ec08-49f9-b3d3-cb8b2e39ad24",
+    "previousProviderSessionIds": [
+      "80f38b26-12fc-48dd-aea9-da535c897f46",
+      "4c15cd06-1e56-4e1f-9665-032d546693a7"
+    ]
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 151,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24960,
+    "contextWindow": 200000,
+    "contextTokens": 25111,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

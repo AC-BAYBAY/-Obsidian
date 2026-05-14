@@ -1,0 +1,40 @@
+{
+  "recentFiles": [
+    {
+      "basename": "入门节点说明2D",
+      "path": "GODOT/入门节点说明2D.md"
+    },
+    {
+      "basename": "保存",
+      "path": "GODOT/保存.md"
+    },
+    {
+      "basename": "插件",
+      "path": "GODOT/插件.md"
+    },
+    {
+      "basename": "A星寻路",
+      "path": "GODOT/算法/A星寻路.md"
+    },
+    {
+      "basename": "地图集Tilemap",
+      "path": "GODOT/地图集Tilemap.md"
+    },
+    {
+      "basename": "Godot代码",
+      "path": "GODOT/Godot代码.md"
+    },
+    {
+      "basename": "状态机",
+      "path": "GODOT/状态机.md"
+    },
+    {
+      "basename": "光影",
+      "path": "GODOT/光影.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

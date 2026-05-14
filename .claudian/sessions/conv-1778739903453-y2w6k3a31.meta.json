@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778739903453-y2w6k3a31",
+  "providerId": "claude",
+  "title": "Summarize 16 free Godot engine plugins",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778739903453,
+  "updatedAt": 1778740446945,
+  "lastResponseAt": 1778739943051,
+  "sessionId": "647a2a24-f5e1-40d3-aa47-aa93a9512a64",
+  "providerState": {
+    "providerSessionId": "647a2a24-f5e1-40d3-aa47-aa93a9512a64"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 59,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24832,
+    "contextWindow": 200000,
+    "contextTokens": 24891,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}
