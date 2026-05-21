@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779108238914-yjcebhwfm",
+  "providerId": "claude",
+  "title": "Document Godot CSV translation usage",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779108238914,
+  "updatedAt": 1779261040093,
+  "lastResponseAt": 1779108717674,
+  "sessionId": "03a225ba-02fc-4a8b-abd6-f9dec8fc839c",
+  "providerState": {
+    "providerSessionId": "03a225ba-02fc-4a8b-abd6-f9dec8fc839c"
+  },
+  "currentNote": "GODOT/CSV翻译.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 144,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32384,
+    "contextWindow": 200000,
+    "contextTokens": 32528,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
+}

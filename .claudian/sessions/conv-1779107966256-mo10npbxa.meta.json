@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779107966256-mo10npbxa",
+  "providerId": "claude",
+  "title": "Use CSV for Godot item properties with i18n",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779107966257,
+  "updatedAt": 1779261040826,
+  "lastResponseAt": 1779108001269,
+  "sessionId": "3c4a56da-4ee3-471b-b468-fe8f38019fa7",
+  "providerState": {
+    "providerSessionId": "3c4a56da-4ee3-471b-b468-fe8f38019fa7"
+  },
+  "currentNote": "GODOT/CSV.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 102,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26368,
+    "contextWindow": 200000,
+    "contextTokens": 26470,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

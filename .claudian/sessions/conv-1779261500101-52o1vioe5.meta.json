@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779261500101-52o1vioe5",
+  "providerId": "claude",
+  "title": "Organize Godot Tween notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779261500101,
+  "updatedAt": 1779261561594,
+  "lastResponseAt": 1779261561594,
+  "sessionId": "a1f02997-2752-4e6d-a8c3-a2070261d0da",
+  "providerState": {
+    "providerSessionId": "a1f02997-2752-4e6d-a8c3-a2070261d0da"
+  },
+  "currentNote": "GODOT/TWEEN补间动画.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5245,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24704,
+    "contextWindow": 200000,
+    "contextTokens": 29949,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

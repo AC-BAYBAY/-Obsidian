@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778744287071-wtl3y6355",
+  "providerId": "claude",
+  "title": "Implement Godot ConfigFile save system",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778744287071,
+  "updatedAt": 1779261042811,
+  "lastResponseAt": 1778744436218,
+  "sessionId": "516254a4-1383-4169-9c8b-821a2e85727e",
+  "providerState": {
+    "providerSessionId": "516254a4-1383-4169-9c8b-821a2e85727e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 493,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28544,
+    "contextWindow": 200000,
+    "contextTokens": 29037,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

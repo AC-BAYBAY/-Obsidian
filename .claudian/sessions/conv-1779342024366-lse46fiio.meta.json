@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779342024366-lse46fiio",
+  "providerId": "claude",
+  "title": "Organize formatting and structure",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779342024366,
+  "updatedAt": 1779342033572,
+  "lastResponseAt": 1779342033572,
+  "sessionId": "bda659fa-528e-48ea-b633-64d7f858f9db",
+  "providerState": {
+    "providerSessionId": "bda659fa-528e-48ea-b633-64d7f858f9db"
+  },
+  "currentNote": "GODOT/GDS.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 687,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19968,
+    "contextWindow": 200000,
+    "contextTokens": 20655,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

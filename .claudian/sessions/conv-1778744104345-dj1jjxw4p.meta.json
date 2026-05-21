@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778744104345-dj1jjxw4p",
+  "providerId": "claude",
+  "title": "Create 2D fog of war in Godot Engine",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778744104345,
+  "updatedAt": 1779107935028,
+  "lastResponseAt": 1778744140822,
+  "sessionId": "e8a77b91-acfa-45d7-a9d2-3e16230b326e",
+  "providerState": {
+    "providerSessionId": "e8a77b91-acfa-45d7-a9d2-3e16230b326e"
+  },
+  "currentNote": "GODOT/功能/战争迷雾.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2612,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 22656,
+    "contextWindow": 200000,
+    "contextTokens": 25268,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,36 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "入门节点说明2D",
-      "path": "GODOT/入门节点说明2D.md"
-    },
-    {
-      "basename": "保存",
-      "path": "GODOT/保存.md"
-    },
-    {
       "basename": "插件",
       "path": "GODOT/插件.md"
     },
     {
-      "basename": "A星寻路",
-      "path": "GODOT/算法/A星寻路.md"
+      "basename": "GDS",
+      "path": "GODOT/GDS.md"
     },
     {
-      "basename": "地图集Tilemap",
-      "path": "GODOT/地图集Tilemap.md"
+      "basename": "CharacterBody2D",
+      "path": "GODOT/节点/CharacterBody2D.md"
     },
     {
       "basename": "Godot代码",
       "path": "GODOT/Godot代码.md"
     },
     {
+      "basename": "TWEEN补间动画",
+      "path": "GODOT/TWEEN补间动画.md"
+    },
+    {
+      "basename": "地图集Tilemap",
+      "path": "GODOT/节点/地图集Tilemap.md"
+    },
+    {
+      "basename": "入门节点说明2D",
+      "path": "GODOT/节点/入门节点说明2D.md"
+    },
+    {
       "basename": "状态机",
       "path": "GODOT/状态机.md"
     },
     {
+      "basename": "CSV翻译",
+      "path": "GODOT/CSV翻译.md"
+    },
+    {
+      "basename": "CSV",
+      "path": "GODOT/CSV.md"
+    },
+    {
+      "basename": "暂停",
+      "path": "GODOT/功能/暂停.md"
+    },
+    {
+      "basename": "UI",
+      "path": "GODOT/UI.md"
+    },
+    {
+      "basename": "音量控制",
+      "path": "GODOT/功能/音量控制.md"
+    },
+    {
+      "basename": "保存",
+      "path": "GODOT/保存.md"
+    },
+    {
       "basename": "光影",
       "path": "GODOT/光影.md"
+    },
+    {
+      "basename": "项目设置",
+      "path": "GODOT/项目设置.md"
+    },
+    {
+      "basename": "战争迷雾",
+      "path": "GODOT/功能/战争迷雾.md"
+    },
+    {
+      "basename": "A星寻路",
+      "path": "GODOT/算法/A星寻路.md"
     }
   ],
   "omittedPaths": [],

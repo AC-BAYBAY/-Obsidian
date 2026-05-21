@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778745407942-cpyjoiuda",
+  "providerId": "claude",
+  "title": "Summarize Godot pause system logic",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778745407942,
+  "updatedAt": 1779107936509,
+  "lastResponseAt": 1778745426077,
+  "sessionId": "7cd68dcf-3b0a-4452-b9df-65632fc278b6",
+  "providerState": {
+    "providerSessionId": "7cd68dcf-3b0a-4452-b9df-65632fc278b6"
+  },
+  "currentNote": "GODOT/功能/暂停.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 138,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21632,
+    "contextWindow": 200000,
+    "contextTokens": 21770,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

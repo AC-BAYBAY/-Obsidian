@@ -15,6 +15,8 @@
 # MarginContainer、在子控件周围保留边距的容器。
 放在PanelContainer里面，然后里面再放控件
 
+# 按钮
+按钮一般有三种最主要的状态 normal普通状态 Press 按下状态和hover鼠标悬浮时候的状态
 # 主题
 创建一个新theme
 右下角+号选择更改某一种节点
