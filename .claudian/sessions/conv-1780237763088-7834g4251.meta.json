@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780237763088-7834g4251",
+  "providerId": "claude",
+  "title": "Explore Godot 2D node types",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780237763089,
+  "updatedAt": 1780237788818,
+  "lastResponseAt": 1780237788818,
+  "sessionId": "45827598-f323-4fdc-a07c-b6f77e9ede9c",
+  "providerState": {
+    "providerSessionId": "45827598-f323-4fdc-a07c-b6f77e9ede9c"
+  },
+  "currentNote": "GODOT/节点/2D.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 116,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24320,
+    "contextWindow": 200000,
+    "contextTokens": 24436,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}
