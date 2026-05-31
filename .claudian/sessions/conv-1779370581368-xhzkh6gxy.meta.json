@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779370581368-xhzkh6gxy",
+  "providerId": "claude",
+  "title": "Organize note formatting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779370581368,
+  "updatedAt": 1779370614439,
+  "lastResponseAt": 1779370614439,
+  "sessionId": "32cac2fd-3b14-42f1-9029-571367ffaa5f",
+  "providerState": {
+    "providerSessionId": "32cac2fd-3b14-42f1-9029-571367ffaa5f"
+  },
+  "currentNote": "GODOT/节点/地图集Tilemap.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 111,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29568,
+    "contextWindow": 200000,
+    "contextTokens": 29679,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}

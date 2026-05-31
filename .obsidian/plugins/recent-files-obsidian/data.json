@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "保存",
+      "path": "GODOT/保存.md"
+    },
+    {
+      "basename": "地图集Tilemap",
+      "path": "GODOT/节点/地图集Tilemap.md"
+    },
+    {
+      "basename": "UI",
+      "path": "GODOT/UI.md"
+    },
+    {
+      "basename": "TWEEN补间动画",
+      "path": "GODOT/TWEEN补间动画.md"
+    },
+    {
       "basename": "插件",
       "path": "GODOT/插件.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "Godot代码",
       "path": "GODOT/Godot代码.md"
-    },
-    {
-      "basename": "TWEEN补间动画",
-      "path": "GODOT/TWEEN补间动画.md"
-    },
-    {
-      "basename": "地图集Tilemap",
-      "path": "GODOT/节点/地图集Tilemap.md"
     },
     {
       "basename": "入门节点说明2D",
@@ -45,16 +53,8 @@
       "path": "GODOT/功能/暂停.md"
     },
     {
-      "basename": "UI",
-      "path": "GODOT/UI.md"
-    },
-    {
       "basename": "音量控制",
       "path": "GODOT/功能/音量控制.md"
-    },
-    {
-      "basename": "保存",
-      "path": "GODOT/保存.md"
     },
     {
       "basename": "光影",

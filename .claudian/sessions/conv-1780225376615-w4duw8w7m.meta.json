@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780225376615-w4duw8w7m",
+  "providerId": "claude",
+  "title": "Review Godot ConfigFile data saving",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780225376616,
+  "updatedAt": 1780225415383,
+  "lastResponseAt": 1780225415383,
+  "sessionId": "8de89923-e6c7-48e5-8adc-9a2ccbf0d1fb",
+  "providerState": {
+    "providerSessionId": "8de89923-e6c7-48e5-8adc-9a2ccbf0d1fb"
+  },
+  "currentNote": "GODOT/保存.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 72,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29952,
+    "contextWindow": 200000,
+    "contextTokens": 30024,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}
